@@ -2673,3 +2673,342 @@ TargetManager
 [2023.05.14-15.43.18:130][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
 [2023.05.14-15.48.08:091][293]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
 [2023.05.14-15.48.08:091][293]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.14-15.51.48:211][342]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.05.14-15.52.30:342][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.14-15.52.30:344][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.058
+[2023.05.14-15.52.30:345][393]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/HUD/UI_MainMenu] ([2] browsable assets)...
+[2023.05.14-15.52.30:349][393]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/HUD/UI_MainMenu.UI_MainMenu]
+[2023.05.14-15.52.30:350][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/HUD/UI_MainMenu]
+[2023.05.14-15.52.30:350][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/HUD/UI_MainMenu" FILE="E:/_School Projects/Advanced3D/TankGame/Saved/Autosaves/Game/Blueprint/HUD/UI_MainMenu_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.05.14-15.52.30:395][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/HUD/UI_MainMenu_Auto5
+[2023.05.14-15.52.30:395][393]LogSavePackage: Moving 'E:/_School Projects/Advanced3D/TankGame/Saved/UI_MainMenu_Auto51395CB3942CF101944A40E888D59CDF4.tmp' to 'E:/_School Projects/Advanced3D/TankGame/Saved/Autosaves/Game/Blueprint/HUD/UI_MainMenu_Auto5.uasset'
+[2023.05.14-15.52.30:396][393]LogFileHelpers: Auto-saving content packages took 0.052
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: 00000A4497F31900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE7340FE7-414C-F580-66A2-9A882049293D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=02152d0c4cee07841766f59753e101ad%7C50a8591836574469845a01e7ad4d6b0a%7C7a86cdce-852a-4c7d-8e3d-638e462f5a80&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: 00000A4497F31900: request failed, libcurl error: 0 (No error)
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: 00000A4497F31900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xa441d8d0e70 [can pipeline])
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: 00000A4497F31900: libcurl info message cache 1 (Re-using existing connection! (#77) with host datarouter.ol.epicgames.com)
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: 00000A4497F31900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.233.130.146) port 443 (#77))
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: 00000A4497F31900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: 00000A4497F31900: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: 00000A4497F31900: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: 00000A4497F31900: libcurl info message cache 6 (Closing connection 77)
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: 00000A4497F31900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.05.14-15.52.42:980][432]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE7340FE7-414C-F580-66A2-9A882049293D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=02152d0c4cee07841766f59753e101ad%7C50a8591836574469845a01e7ad4d6b0a%7C7a86cdce-852a-4c7d-8e3d-638e462f5a80&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.14-15.53.26:150][247]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-15.54.54:284][260]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.14-15.54.54:296][260]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.14-15.54.54:296][260]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.14-15.54.54:296][260]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.14-15.54.54:296][260]LogWorldPartition: Display: ValidateSingleActorReferer took 7 us
+[2023.05.14-15.54.54:296][260]LogWorldPartition: Display: GetPartitionedActors took 67 us
+[2023.05.14-15.54.54:297][260]LogWorldPartition: Display: GenerateStreaming took 597 us
+[2023.05.14-15.54.54:297][260]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.14-15.54.54:299][260]LogPlayLevel: [PlayLevel] Compiling UI_MainMenu before play...
+[2023.05.14-15.54.54:543][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.05.14-15.54.54:545][260]LogPlayLevel: PlayLevel: Blueprint regeneration took 247 ms (1 blueprints)
+[2023.05.14-15.54.54:545][260]PIE: New page: PIE session: MainMenu (May 15, 2023, 5:54:54 a.m.)
+[2023.05.14-15.54.54:545][260]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.05.14-15.54.54:570][260]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.14-15.54.54:570][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024100s)
+[2023.05.14-15.54.54:570][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.024176s)
+[2023.05.14-15.54.54:570][260]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-15.54.54:570][260]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.14-15.54.54:570][260]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.14-15.54.54:570][260]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.14-15.54.54:574][260]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2023.05.14-15.54.54:574][260]LogPlayLevel: PIE: World Init took: (0.004999s)
+[2023.05.14-15.54.54:614][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.14-15.54.54:615][260]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.05.14-15.54.54:615][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-15.54.54:615][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-15.54.54:615][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-15.54.54:615][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-15.54.54:615][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.14-15.54.54:615][260]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.14-15.54.54:615][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.14-15.54.54:615][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-15.54.54:616][260]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-15.54.54:616][260]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-15.54.54:616][260]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-15.54.54:617][260]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.14-15.54.54:657][260]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.14-15.54.54:658][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-15.54.54:658][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-15.54.54:658][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-15.54.54:659][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.05.14-15.54.54:659][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.05.14-15.54.54:660][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.05.14-15.54.54:660][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.05.14-15.54.54:660][260]LogInit: FAudioDevice initialized.
+[2023.05.14-15.54.54:660][260]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2023.05.14-15.54.54:704][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-15.54.54:704][260]LogLoad: Game class is 'GM_MainMenu_C'
+[2023.05.14-15.54.54:707][260]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.05.14-22.54.54
+[2023.05.14-15.54.54:707][260]LogWorld: Bringing up level for play took: 0.003205
+[2023.05.14-15.54.54:710][260]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.05.14-15.54.54:710][260]LogBlueprintUserMessages: [GM_MainMenu_C_0] TeamBlue
+[2023.05.14-15.54.54:711][260]LogBlueprintUserMessages: [GM_MainMenu_C_0] TeamBlue
+[2023.05.14-15.54.54:712][260]LogBlueprintUserMessages: [PC_Base_C_0] FOUND CHAR MOVEMENT
+[2023.05.14-15.54.54:712][260]LogWorldPartition: New Streaming Source: PC_Base_C_0 -> Position: X=390.000 Y=55.000 Z=0.000
+[2023.05.14-15.54.54:712][260]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.05.14-15.54.54:712][260]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=390.000 Y=55.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.05.14-15.54.54:714][260]LogStreaming: Display: FlushAsyncLoading: 50 QueuedPackages, 0 AsyncPackages
+[2023.05.14-15.54.54:925][260]LogBlueprintUserMessages: [PC_Base_C_0] FOUND CHAR MOVEMENT
+[2023.05.14-15.54.54:927][260]PIE: Server logged in
+[2023.05.14-15.54.54:928][260]PIE: Play in editor total start time 0.634 seconds.
+[2023.05.14-15.54.55:008][260]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.14-15.55.12:212][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-15.55.12:212][731]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.05.14-15.55.12:212][731]LogSlate: Window 'TankGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.14-15.55.12:240][731]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-15.55.12:241][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-15.55.12:257][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-15.55.12:265][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-15.55.12:315][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.05.14-15.55.12:317][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.05.14-15.55.12:332][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.05.14-15.55.12:368][732]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.05.14-15.56.19:517][298]BlueprintLog: New page: Compile UI_MainMenu
+[2023.05.14-15.56.19:608][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.14-15.56.20:169][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/HUD/UI_MainMenu" FILE="E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset" SILENT=true
+[2023.05.14-15.56.20:211][329]LogSavePackage: Moving output files for package: /Game/Blueprint/HUD/UI_MainMenu
+[2023.05.14-15.56.20:211][329]LogSavePackage: Moving 'E:/_School Projects/Advanced3D/TankGame/Saved/UI_MainMenuFC6BCB0649CA0483175382A4677EBDD1.tmp' to 'E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset'
+[2023.05.14-15.56.20:230][329]AssetCheck: New page: Asset Save: UI_MainMenu
+[2023.05.14-15.56.20:230][329]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/HUD/UI_MainMenu.UI_MainMenu
+[2023.05.14-15.56.28:877][282]BlueprintLog: New page: Compile UI_MainMenu
+[2023.05.14-15.56.28:973][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.05.14-15.56.29:388][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/HUD/UI_MainMenu" FILE="E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset" SILENT=true
+[2023.05.14-15.56.29:432][294]LogSavePackage: Moving output files for package: /Game/Blueprint/HUD/UI_MainMenu
+[2023.05.14-15.56.29:433][294]LogSavePackage: Moving 'E:/_School Projects/Advanced3D/TankGame/Saved/UI_MainMenu755C9A374E7FF9DD283D94B6C5599D75.tmp' to 'E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset'
+[2023.05.14-15.56.29:452][294]AssetCheck: New page: Asset Save: UI_MainMenu
+[2023.05.14-15.56.29:452][294]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/HUD/UI_MainMenu.UI_MainMenu
+[2023.05.14-15.56.34:190][833]BlueprintLog: New page: Compile UI_MainMenu
+[2023.05.14-15.56.34:283][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.14-15.56.34:627][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/HUD/UI_MainMenu" FILE="E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset" SILENT=true
+[2023.05.14-15.56.34:671][839]LogSavePackage: Moving output files for package: /Game/Blueprint/HUD/UI_MainMenu
+[2023.05.14-15.56.34:672][839]LogSavePackage: Moving 'E:/_School Projects/Advanced3D/TankGame/Saved/UI_MainMenu76BC3D6F469BF1A1D90258AC7D52CCDC.tmp' to 'E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset'
+[2023.05.14-15.56.34:690][839]AssetCheck: New page: Asset Save: UI_MainMenu
+[2023.05.14-15.56.34:690][839]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/HUD/UI_MainMenu.UI_MainMenu
+[2023.05.14-15.57.58:651][549]BlueprintLog: New page: Compile UI_MainMenu
+[2023.05.14-15.57.58:747][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.14-15.57.59:209][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/HUD/UI_MainMenu" FILE="E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset" SILENT=true
+[2023.05.14-15.57.59:254][566]LogSavePackage: Moving output files for package: /Game/Blueprint/HUD/UI_MainMenu
+[2023.05.14-15.57.59:255][566]LogSavePackage: Moving 'E:/_School Projects/Advanced3D/TankGame/Saved/UI_MainMenuB7CF311B4E5807EF7033C5AB0B75A431.tmp' to 'E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset'
+[2023.05.14-15.57.59:273][566]AssetCheck: New page: Asset Save: UI_MainMenu
+[2023.05.14-15.57.59:273][566]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/HUD/UI_MainMenu.UI_MainMenu
+[2023.05.14-16.01.09:332][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/HUD/UI_MainMenu" FILE="E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset" SILENT=true
+[2023.05.14-16.01.09:377][904]LogSavePackage: Moving output files for package: /Game/Blueprint/HUD/UI_MainMenu
+[2023.05.14-16.01.09:378][904]LogSavePackage: Moving 'E:/_School Projects/Advanced3D/TankGame/Saved/UI_MainMenuE2DED4E348C0B4B99443F08348F8384C.tmp' to 'E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset'
+[2023.05.14-16.01.09:395][904]AssetCheck: New page: Asset Save: UI_MainMenu
+[2023.05.14-16.01.09:395][904]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/HUD/UI_MainMenu.UI_MainMenu
+[2023.05.14-16.01.20:226][149]LogEditorTransaction: Undo Remove Widget
+[2023.05.14-16.02.05:784][184]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-16.02.25:485][412]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-16.02.29:392][831]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-16.02.34:421][374]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.14-16.02.37:679][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.14-16.02.37:692][731]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.14-16.02.37:692][731]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.14-16.02.37:692][731]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.14-16.02.37:692][731]LogWorldPartition: Display: ValidateSingleActorReferer took 8 us
+[2023.05.14-16.02.37:692][731]LogWorldPartition: Display: GetPartitionedActors took 72 us
+[2023.05.14-16.02.37:692][731]LogWorldPartition: Display: GenerateStreaming took 588 us
+[2023.05.14-16.02.37:692][731]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.14-16.02.37:694][731]LogPlayLevel: [PlayLevel] Compiling UI_MainMenu before play...
+[2023.05.14-16.02.37:856][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.14-16.02.37:858][731]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2023.05.14-16.02.37:858][731]PIE: New page: PIE session: MainMenu (May 15, 2023, 6:02:37 a.m.)
+[2023.05.14-16.02.37:858][731]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.05.14-16.02.37:883][731]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.14-16.02.37:884][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025647s)
+[2023.05.14-16.02.37:884][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.025728s)
+[2023.05.14-16.02.37:884][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-16.02.37:884][731]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.14-16.02.37:885][731]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.14-16.02.37:885][731]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.14-16.02.37:888][731]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2023.05.14-16.02.37:888][731]LogPlayLevel: PIE: World Init took: (0.004530s)
+[2023.05.14-16.02.37:926][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.14-16.02.37:927][731]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.05.14-16.02.37:927][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-16.02.37:927][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-16.02.37:927][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-16.02.37:927][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-16.02.37:927][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.14-16.02.37:927][731]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.14-16.02.37:927][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.14-16.02.37:927][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-16.02.37:928][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-16.02.37:928][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-16.02.37:928][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-16.02.37:929][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.14-16.02.37:968][731]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.14-16.02.37:969][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-16.02.37:969][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-16.02.37:969][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-16.02.37:969][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.05.14-16.02.37:969][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.05.14-16.02.37:971][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.05.14-16.02.37:971][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.05.14-16.02.37:972][731]LogInit: FAudioDevice initialized.
+[2023.05.14-16.02.37:972][731]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenu'.
+[2023.05.14-16.02.37:999][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-16.02.37:999][731]LogLoad: Game class is 'GM_MainMenu_C'
+[2023.05.14-16.02.38:003][731]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.05.14-23.02.38
+[2023.05.14-16.02.38:003][731]LogWorld: Bringing up level for play took: 0.003717
+[2023.05.14-16.02.38:005][731]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.05.14-16.02.38:005][731]LogBlueprintUserMessages: [GM_MainMenu_C_0] TeamBlue
+[2023.05.14-16.02.38:006][731]LogBlueprintUserMessages: [GM_MainMenu_C_0] TeamBlue
+[2023.05.14-16.02.38:007][731]LogBlueprintUserMessages: [PC_Base_C_0] FOUND CHAR MOVEMENT
+[2023.05.14-16.02.38:007][731]LogWorldPartition: New Streaming Source: PC_Base_C_0 -> Position: X=390.000 Y=55.000 Z=0.000
+[2023.05.14-16.02.38:007][731]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.05.14-16.02.38:007][731]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=390.000 Y=55.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.05.14-16.02.38:009][731]LogStreaming: Display: FlushAsyncLoading: 50 QueuedPackages, 0 AsyncPackages
+[2023.05.14-16.02.38:228][731]LogBlueprintUserMessages: [PC_Base_C_0] FOUND CHAR MOVEMENT
+[2023.05.14-16.02.38:230][731]PIE: Server logged in
+[2023.05.14-16.02.38:232][731]PIE: Play in editor total start time 0.541 seconds.
+[2023.05.14-16.02.38:282][731]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.14-16.02.59:583][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-16.02.59:583][502]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.05.14-16.02.59:583][502]LogSlate: Window 'TankGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.14-16.02.59:608][502]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-16.02.59:609][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-16.02.59:626][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-16.02.59:633][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-16.02.59:680][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.05.14-16.02.59:681][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.05.14-16.02.59:699][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.14-16.02.59:743][503]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.05.14-16.03.15:889][256]BlueprintLog: New page: Compile UI_MainMenu
+[2023.05.14-16.03.15:994][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.14-16.03.17:299][352]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.14-16.03.17:311][352]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.14-16.03.17:311][352]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.14-16.03.17:311][352]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.14-16.03.17:311][352]LogWorldPartition: Display: ValidateSingleActorReferer took 7 us
+[2023.05.14-16.03.17:311][352]LogWorldPartition: Display: GetPartitionedActors took 69 us
+[2023.05.14-16.03.17:312][352]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.05.14-16.03.17:313][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.14-16.03.17:313][352]PIE: New page: PIE session: MainMenu (May 15, 2023, 6:03:17 a.m.)
+[2023.05.14-16.03.17:313][352]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.05.14-16.03.17:336][352]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.14-16.03.17:336][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023478s)
+[2023.05.14-16.03.17:336][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.023547s)
+[2023.05.14-16.03.17:336][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.14-16.03.17:336][352]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.14-16.03.17:337][352]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.14-16.03.17:337][352]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.14-16.03.17:341][352]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2023.05.14-16.03.17:341][352]LogPlayLevel: PIE: World Init took: (0.004426s)
+[2023.05.14-16.03.17:381][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.05.14-16.03.17:382][352]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.05.14-16.03.17:382][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-16.03.17:382][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-16.03.17:382][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-16.03.17:382][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-16.03.17:382][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.14-16.03.17:382][352]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.14-16.03.17:382][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.14-16.03.17:382][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-16.03.17:383][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-16.03.17:383][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-16.03.17:383][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-16.03.17:385][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.14-16.03.17:422][352]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.14-16.03.17:423][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-16.03.17:423][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-16.03.17:423][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-16.03.17:423][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.05.14-16.03.17:423][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.05.14-16.03.17:425][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.05.14-16.03.17:425][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.05.14-16.03.17:425][352]LogInit: FAudioDevice initialized.
+[2023.05.14-16.03.17:425][352]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenu'.
+[2023.05.14-16.03.17:468][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-16.03.17:469][352]LogLoad: Game class is 'GM_MainMenu_C'
+[2023.05.14-16.03.17:472][352]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.05.14-23.03.17
+[2023.05.14-16.03.17:472][352]LogWorld: Bringing up level for play took: 0.003368
+[2023.05.14-16.03.17:474][352]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.05.14-16.03.17:475][352]LogBlueprintUserMessages: [GM_MainMenu_C_0] TeamBlue
+[2023.05.14-16.03.17:475][352]LogBlueprintUserMessages: [GM_MainMenu_C_0] TeamBlue
+[2023.05.14-16.03.17:476][352]LogBlueprintUserMessages: [PC_Base_C_0] FOUND CHAR MOVEMENT
+[2023.05.14-16.03.17:476][352]LogWorldPartition: New Streaming Source: PC_Base_C_0 -> Position: X=390.000 Y=55.000 Z=0.000
+[2023.05.14-16.03.17:476][352]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.05.14-16.03.17:476][352]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=390.000 Y=55.000 Z=0.000,P=0.000000 Y=0.000000 R=0.000000
+[2023.05.14-16.03.17:478][352]LogStreaming: Display: FlushAsyncLoading: 50 QueuedPackages, 0 AsyncPackages
+[2023.05.14-16.03.17:695][352]LogBlueprintUserMessages: [PC_Base_C_0] FOUND CHAR MOVEMENT
+[2023.05.14-16.03.17:696][352]PIE: Server logged in
+[2023.05.14-16.03.17:698][352]PIE: Play in editor total start time 0.388 seconds.
+[2023.05.14-16.03.17:709][352]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.14-16.03.24:232][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-16.03.24:232][865]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.05.14-16.03.24:233][865]LogSlate: Window 'TankGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.14-16.03.24:264][865]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-16.03.24:266][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-16.03.24:279][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-16.03.24:287][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-16.03.24:337][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-16.03.24:337][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.05.14-16.03.24:339][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.05.14-16.03.24:353][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.05.14-16.03.24:389][866]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.05.14-16.03.26:721][126]BlueprintLog: New page: Compile UI_MainMenu
+[2023.05.14-16.03.26:826][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.05.14-16.03.27:118][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/HUD/UI_MainMenu" FILE="E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset" SILENT=true
+[2023.05.14-16.03.27:163][148]LogSavePackage: Moving output files for package: /Game/Blueprint/HUD/UI_MainMenu
+[2023.05.14-16.03.27:164][148]LogSavePackage: Moving 'E:/_School Projects/Advanced3D/TankGame/Saved/UI_MainMenuBD8151E949C9D962A63EBA846AC670D0.tmp' to 'E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset'
+[2023.05.14-16.03.27:183][148]AssetCheck: New page: Asset Save: UI_MainMenu
+[2023.05.14-16.03.27:183][148]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/HUD/UI_MainMenu.UI_MainMenu
+[2023.05.14-16.03.47:247][231]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.05.14-16.04.09:195][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/HUD/UI_MainMenu" FILE="E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset" SILENT=true
+[2023.05.14-16.04.09:241][535]LogSavePackage: Moving output files for package: /Game/Blueprint/HUD/UI_MainMenu
+[2023.05.14-16.04.09:241][535]LogSavePackage: Moving 'E:/_School Projects/Advanced3D/TankGame/Saved/UI_MainMenuB0CEA55D4B28513550FD44B230BD2CAF.tmp' to 'E:/_School Projects/Advanced3D/TankGame/Content/Blueprint/HUD/UI_MainMenu.uasset'
+[2023.05.14-16.04.09:258][535]AssetCheck: New page: Asset Save: UI_MainMenu
+[2023.05.14-16.04.09:258][535]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprint/HUD/UI_MainMenu.UI_MainMenu
+[2023.05.14-16.10.35:315][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.05.14-16.10.35:335][767]LogStall: Shutdown...
+[2023.05.14-16.10.35:352][767]LogStall: Shutdown complete.
+[2023.05.14-16.10.35:931][767]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-16.10.35:931][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-16.10.35:945][767]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-16.10.35:945][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-16.10.36:233][767]LogSlate: Window 'TankGame - Unreal Editor' being destroyed
+[2023.05.14-16.10.36:683][768]Cmd: QUIT_EDITOR
+[2023.05.14-16.10.36:683][768]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.05.14-16.10.36:793][768]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.14-16.10.36:814][768]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.05.14-16.10.36:822][768]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.05.14-16.10.37:905][768]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.14-16.10.37:906][768]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.14-16.10.37:906][768]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2023.05.14-16.10.37:922][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.14-16.10.37:925][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.14-16.10.37:951][768]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.14-16.10.38:015][768]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.14-16.10.38:069][768]LogExit: Preparing to exit.
+[2023.05.14-16.10.38:375][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.05.14-16.10.38:407][768]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.38:407][768]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.38:411][768]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.38:411][768]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.38:412][768]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.38:412][768]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.38:412][768]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.38:412][768]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.38:412][768]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.38:412][768]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.38:412][768]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.14-16.10.40:503][768]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.14-16.10.40:503][768]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.14-16.10.40:503][768]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.14-16.10.40:503][768]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.14-16.10.40:503][768]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.14-16.10.40:503][768]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.14-16.10.40:503][768]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.05.14-16.10.40:503][768]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-16.10.40:595][768]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-16.10.40:813][768]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.05.14-16.10.41:088][768]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.05.14-16.10.41:130][768]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.05.14-16.10.41:261][768]LogExit: Editor shut down
+[2023.05.14-16.10.41:266][768]LogExit: Transaction tracking system shut down
